@@ -14,6 +14,12 @@ spec:
     spec:
       containers:
       - name: devops-container
+<<<<<<< HEAD
         image: yourdockerhub/fa23-xxx
         ports:
         - containerPort: 3000
+=======
+        image: YOUR_DOCKERHUB_USERNAME/devops-exam:FA23-BCS-078
+        ports:
+        - containerPort: 3000
+>>>>>>> f547764e5397f9dda997107300fa9cfc30d7a7fb

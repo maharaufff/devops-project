@@ -8,4 +8,8 @@ spec:
     app: devops
   ports:
     - port: 80
+<<<<<<< HEAD
       targetPort: 3000
+=======
+      targetPort: 3000
+>>>>>>> f547764e5397f9dda997107300fa9cfc30d7a7fb
